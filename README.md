@@ -24,3 +24,4 @@
 <div>
   <img src="https://github.com/user-attachments/assets/ce84513f-1999-45ba-8439-5baf790c01c0" width="800">
 </div>
+<p>npx playwright test Locators_builtin.spec.js -- project chromium -- headed</p>
