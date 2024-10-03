@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/379bdc25-b470-437c-a314-cb62735beb9e" width="800">
 </div>
 
-<h4></h4>
+<h4>Building Locators</h4>
 <div>
-  <img src="" width="800">
+  <img src="https://github.com/user-attachments/assets/ce84513f-1999-45ba-8439-5baf790c01c0" width="800">
 </div>
